@@ -1,7 +1,6 @@
 # Pizza Menu (React Learning Project)
 
 Ένα μικρό project για εξάσκηση στο **React**.  
-Δεν είναι production app — είναι καθαρά για να μαθαίνω βασικές έννοιες.
 
 ## Live Demo
 
