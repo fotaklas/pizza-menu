@@ -3,6 +3,11 @@
 Ένα μικρό project για εξάσκηση στο **React**.  
 Δεν είναι production app — είναι καθαρά για να μαθαίνω βασικές έννοιες.
 
+## Live Demo
+
+Δες το project live εδώ:  
+🔗 https://pizza-menu-woad.vercel.app/
+
 ## Τι κάνει
 
 Η εφαρμογή δείχνει ένα απλό μενού πίτσας:
